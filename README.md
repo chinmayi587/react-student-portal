@@ -6,6 +6,14 @@ A React-based Student Management Portal built using React Router. The applicatio
 
 
 
+\## Screenshot
+
+
+
+!\[Student Portal Dashboard](./public/studentportal-screenshot.png)
+
+
+
 \## Features
 
 
@@ -52,6 +60,20 @@ student-portal/
 
 ├── public/
 
+│   ├── favicon.ico
+
+│   ├── index.html
+
+│   ├── logo192.png
+
+│   ├── logo512.png
+
+│   ├── manifest.json
+
+│   ├── robots.txt
+
+│   └── studentportal-screenshot.png
+
 ├── src/
 
 │   ├── studentportal/
@@ -75,4 +97,6 @@ student-portal/
 ├── package.json
 
 └── README.md
+
+
 

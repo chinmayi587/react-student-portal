@@ -10,7 +10,7 @@ A React-based Student Management Portal built using React Router. The applicatio
 
 
 
-!\[Student Portal Dashboard](./public/studentportal-screenshot.png)
+<img src="./public/studentportal-screenshot.png" alt="Student Portal Dashboard" width="800">
 
 
 
@@ -97,6 +97,4 @@ student-portal/
 ├── package.json
 
 └── README.md
-
-
 
